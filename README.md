@@ -22,11 +22,11 @@ No installation needed! Click the links below to start learning directly in Goog
 
 ## Modules
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/jeremie-durand/geospatial-workflows-guide/blob/main/RQRAD/training_RQRAD_cloud_native_Durand_EN.ipynb)
-**[Cloud-Native Geospatial Formats for Precision Agriculture](https://colab.research.google.com/github/jeremie-durand/geospatial-workflows-guide/blob/main/RQRAD/training_RQRAD_cloud_native_Durand_EN.ipynb)** (EN)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/jeremie-durand/geospatial-workflows-guide/blob/main/formation_donnees_agricoles_RQRAD_2026-08-26/training_RQRAD_cloud_native_Durand_EN.ipynb)
+**[Cloud-Native Geospatial Formats for Precision Agriculture](https://colab.research.google.com/github/jeremie-durand/geospatial-workflows-guide/blob/main/formation_donnees_agricoles_RQRAD_2026-08-26/training_RQRAD_cloud_native_Durand_EN.ipynb)** (EN)
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/jeremie-durand/geospatial-workflows-guide/blob/main/RQRAD/formation_RQRAD_infonuagique_Durand_FR.ipynb)
-**[Application des Formats Infonuagiques en Agriculture de Précision](https://colab.research.google.com/github/jeremie-durand/geospatial-workflows-guide/blob/main/RQRAD/formation_RQRAD_infonuagique_Durand_FR.ipynb)** (FR)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/jeremie-durand/geospatial-workflows-guide/blob/main/formation_donnees_agricoles_RQRAD_2026-08-26/formation_RQRAD_infonuagique_Durand_FR.ipynb)
+**[Application des Formats Infonuagiques en Agriculture de Précision](https://colab.research.google.com/github/jeremie-durand/geospatial-workflows-guide/blob/main/formation_donnees_agricoles_RQRAD_2026-08-26/formation_RQRAD_infonuagique_Durand_FR.ipynb)** (FR)
 
 - Learn about COG, STAC and GeoParquet
 - OGC APIs and public providers
